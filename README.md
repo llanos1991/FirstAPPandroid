@@ -4,3 +4,7 @@
 Para ejecutar el sistema, debes poner:
 
 ``` de prueba ```
+
+Para hacer cambios en la rama dev el sistema, debes poner: 
+
+``` git switch dev ```
